@@ -1,0 +1,11 @@
+
+public class test {
+	public static void main(String args[]){
+		double tuna;    //declaring the type of tuna
+		tuna = 5.28;    //declaring the value of tuna
+		
+		System.out.print(tuna);     //printing out the value of tuna
+		
+	}
+
+}
